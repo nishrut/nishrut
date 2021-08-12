@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nishrut Patel and my user id is @nishrut
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning jQuery
+- 🌱 I’m currently learning ReactJs
 - 💞️ I’m looking to collaborate on website project
 
 <!---
